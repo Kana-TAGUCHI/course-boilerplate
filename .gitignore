@@ -1,0 +1,15 @@
+# Ignore Code Coverage Results
+/coverage/*
+public/dist
+
+.DS_Store
+
+# dependencies
+/node_modules
+
+# production
+/build
+
+# config
+.env.test
+.env.development
